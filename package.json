@@ -1,0 +1,17 @@
+{
+  "name": "reunion-familiar-perez-alcantara",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Invitación digital neón para la Reunión Familiar Pérez Alcántara.",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^8.1.3"
+  },
+  "engines": {
+    "node": ">=20.19.0"
+  }
+}
