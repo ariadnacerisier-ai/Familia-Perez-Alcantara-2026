@@ -1,0 +1,17 @@
+{
+  "name": "loteria-perez-alcantara",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Invitación digital con temática de Lotería mexicana para la familia Pérez Alcántara.",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^8.1.3"
+  },
+  "engines": {
+    "node": ">=20.19.0"
+  }
+}
